@@ -1,9 +1,11 @@
-## Desctiption
+## Description
 A command line tool for cloning friends on Codeforces
+
 ## Usage
 ```
 python script.py | script.exe <option> <username> <password>
 ```
+
 ## Options
 
 1. get : Get friends of current user and save as file "friends.txt".
